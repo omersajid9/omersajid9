@@ -34,6 +34,22 @@
 - Milvus
 
 
+## Web Development
+
+- htmx
+- jQuery
+- React
+- Node.js (Express)
+
+
+## DevOps & Cloud
+- AWS
+- Vagrant
+- Docker
+- Linux
+- Git
+
+
 ## AI/ML Tools
 
 - PyTorch
@@ -43,18 +59,13 @@
 - Weights & Biases (WandB)
 
 
-## Web Development
+## Quantum Computing
 
-- htmx
-- jQuery
-- React
-- Node.js (Express)
+- Qiskit
+- QPanda
+
+
+## 3D Development
+
+- Blender
 - Three.js
-
-
-## DevOps & Cloud
-- AWS
-- Docker  
-- Linux
-- Git
-
