@@ -6,9 +6,9 @@
 
 # Social Media
 
-- Portfolio: [iomersajid.pw](https://www.linkedin.com/in/omersajid9)
+- Portfolio: [iomersajid.pw](https://iomersajid.pw)
 - Linkedin: [in/omersajid9](https://www.linkedin.com/in/omersajid9)
-- Email: omersajid9@outlook.com
+- Email: [omersajid9@outlook.com](mailto:omersajid9@outlook.com)
 
 ---
 
